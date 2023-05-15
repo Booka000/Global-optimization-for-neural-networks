@@ -1,1 +1,1 @@
-# Global-optimization-for-neural-networks
+# Global optimization for neural networks
